@@ -259,3 +259,5 @@ Or you can donate cryto on my btc wallet :)
 - Refactor code (2024/12/29)
 
 - Improve performance (2025/2/17)
+
+- Fix minor bug (2024/12/26)
