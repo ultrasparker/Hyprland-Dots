@@ -263,3 +263,5 @@ Or you can donate cryto on my btc wallet :)
 - Fix minor bug (2024/12/26)
 
 - Code cleanup (2025/1/10)
+
+- Refactor code (2024/12/31)
