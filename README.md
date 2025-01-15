@@ -221,3 +221,5 @@ Or you can donate cryto on my btc wallet :)
 - Add new feature (2025/2/11)
 
 - Update documentation (2025/1/18)
+
+- Fix styling issue (2025/1/15)
