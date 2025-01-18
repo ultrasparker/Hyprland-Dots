@@ -219,3 +219,5 @@ Or you can donate cryto on my btc wallet :)
 - Add unit tests (2025/1/13)
 
 - Add new feature (2025/2/11)
+
+- Update documentation (2025/1/18)
