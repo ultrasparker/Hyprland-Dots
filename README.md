@@ -225,3 +225,5 @@ Or you can donate cryto on my btc wallet :)
 - Fix styling issue (2025/1/15)
 
 - Refactor code (2025/1/30)
+
+- Fix minor bug (2025/2/12)
