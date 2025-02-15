@@ -213,3 +213,5 @@ Or you can donate cryto on my btc wallet :)
 [![Stargazers over time](https://starchart.cc/JaKooLit/Hyprland-Dots.svg?variant=adaptive)](https://starchart.cc/JaKooLit/Hyprland-Dots)
 
 - Improve performance (2025/1/26)
+
+- Update dependencies (2025/2/15)
