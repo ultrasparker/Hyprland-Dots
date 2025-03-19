@@ -279,3 +279,5 @@ Or you can donate cryto on my btc wallet :)
 - Update dependencies (2025/2/23)
 
 - Update README (2025/3/6)
+
+- Fix styling issue (2025/3/19)
